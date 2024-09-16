@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './styling/Loading.css'; // Ensure you have CSS for styling
+import './Styling/Loading.css'; // Ensure you have CSS for styling
 
 // Example icons
 const icons = [
