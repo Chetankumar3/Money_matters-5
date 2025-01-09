@@ -34,7 +34,7 @@ function Hero() {
           </div>
           <div className="collab">IN COLLABORATION WITH</div>
           {/* <div className="outerzerodha"> */}
-          <img src="public\Zerodha_logo_1.png" alt="" className="zerodha" />
+          <img src="/Zerodha_logo_1.png" alt="" className="zerodha" />
           {/* </div> */}
         </div>
         
